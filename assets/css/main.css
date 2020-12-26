@@ -28,7 +28,7 @@ z-index:1;
 left:calc(2% - 36px)
 }
 .vertical-line {
-width:8px;
+width:10px;
 background-color:#000;
 position:absolute;
 left:calc(2% - 5px);
@@ -55,4 +55,9 @@ padding:1rem
 padding-top:80px;
 height:70px;
 position:relative
+}
+
+.future-made-btn {
+    width: 48px;
+    height: 48px;
 }
