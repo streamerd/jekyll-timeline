@@ -1,6 +1,6 @@
 ---
 title: demand-able future CONCERTS
-date: 2021-01-10 00:42:00 -0700
+date: 2020-12-01 00:42:00 -0700
 ---
 
 Focusing on providing effective demand-augmentation/awareness capacity on the planning of the future online + regular concerts and festivals. 

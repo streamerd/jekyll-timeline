@@ -1,6 +1,6 @@
 ---
-title: Online Meeting for the Roadmap and Solution Architecture
-date: 2021-1/5 00:42:00 -0700
+title: Online Gathering for socio-technical collaboration
+date: 2021-01-10 00:42:00 -0700
 ---
 
 ![](https://sites.google.com/site/babokstudies/_/rsrc/1477918243570/event-storming/Captura%20de%20tela%20de%202016-10-31%2022%3A49%3A40.png)
